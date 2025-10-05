@@ -45,7 +45,6 @@ O objetivo deste documento é registrar observações e resultados obtidos duran
 
 **Status:** ❌ Falha  
 **Severidade:** Média  
-**Prioridade:** Alta  
 **Evidência:** *https://ibb.co/prd24fHD*
 
 ---
@@ -73,8 +72,7 @@ O objetivo deste documento é registrar observações e resultados obtidos duran
 - Tabela atualiza conforme ações.  
 
 **Resultado obtido:**  
-✅ Edição e exclusão funcionam corretamente.  
-🪲 Bug: botão “Delete” não funciona corretamente com caracteres especiais, este deleta 3 registros ao invés de apenas o selecionado.
+✅ Todas as funções (adicionar, editar e excluir) funcionam corretamente.
 
 ---
 
@@ -84,14 +82,13 @@ O objetivo deste documento é registrar observações e resultados obtidos duran
 |----|------------|-------------|--------|
 | UX01 | Campo Date of Birth permite datas futuras | Média | Aberto |
 | UX02 | Clique direito não funcional em mobile | Média | Aberto |
-| BUG01 | Botão “Delete” falha com caracteres especiais | Alta | Aberto |
 
 ---
 
 ## 6. Sugestões de Melhoria
 - Bloquear datas futuras no campo Date of Birth.  
-- Corrigir clique direito para mobile.  
-- Corrigir botão Delete com caracteres especiais.  
+- Adicionar feedback visual nos campos obrigatórios.  
+- Corrigir clique direito para mobile.
 
 ---
 
