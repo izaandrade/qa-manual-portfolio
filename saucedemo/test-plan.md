@@ -31,8 +31,8 @@ O foco está nos fluxos de **login**, **navegação de produtos**, **adição ao
 ## 4. Ambiente de Teste
 - **URL:** https://www.saucedemo.com/  
 - **Navegador:** Google Chrome 128  
-- **Sistema Operacional:** Windows 10  
-- **Resolução:** 1920x1080  
+- **Sistema Operacional:** Windows 11 Home
+- **Resolução:** 1366x768  
 
 ---
 
