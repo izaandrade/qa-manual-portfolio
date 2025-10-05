@@ -34,6 +34,6 @@ Fortalecer as habilidades em QA manual, com foco em:
 ## 💬 Contato
 📧 **Izabela de Andrade dos Santos**  
 🔗 [GitHub](https://github.com/izaandrade)  
-💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/izabela-dos-santos/ )
+💼 [LinkedIn](https://www.linkedin.com/in/izabela-dos-santos/ )
 
 ---
