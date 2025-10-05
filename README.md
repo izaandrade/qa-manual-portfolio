@@ -8,7 +8,7 @@ O objetivo é demonstrar o processo completo de QA: desde o planejamento, elabor
 ## 🧠 Tecnologias e Ferramentas Utilizadas
 - Documentação em **Markdown**
 - Navegadores: Chrome / Edge
-- Ferramentas de apoio: Lightshot (prints), Notion / Excel (rascunhos)
+- Ferramentas de apoio: ImgBB (prints), Notion / Excel (rascunhos)
 - Repositório hospedado no **GitHub**
 
 ---
