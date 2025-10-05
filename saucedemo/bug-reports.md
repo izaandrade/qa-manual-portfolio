@@ -13,4 +13,4 @@
   3. Clicar em “Checkout”
 - **Resultado esperado:** Sistema deve impedir a finalização e exibir mensagem de erro
 - **Resultado obtido:** Avança para o formulário de checkout normalmente
-- **Evidência:** ![bug01](https://ibb.co/whqg2YS8 / https://ibb.co/t5x4Rkr / https://ibb.co/jkdmzTs8 / https://ibb.co/Kcxjhqqd)
+- **Evidência:** https://ibb.co/whqg2YS8 / https://ibb.co/t5x4Rkr / https://ibb.co/jkdmzTs8 / https://ibb.co/Kcxjhqqd
