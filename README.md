@@ -19,7 +19,7 @@ O objetivo é demonstrar o processo completo de QA: desde o planejamento, elabor
 |------------|----------------|------------|
 | [SauceDemo](https://www.saucedemo.com/) | Funcional | Testes de login, fluxo de compra e logout |
 | [DemoQA](https://demoqa.com/) | Exploratório / Usabilidade | Testes de formulários, alertas e componentes interativos |
-| [Automation Practice](http://automationpractice.pl/index.php) | Regressão | Testes de login, busca, carrinho e checkout |
+| [QA Brains](https://practice.qabrains.com/) | Exploratório / Usabilidade | Testes de login, formulários e componentes interativos |
 
 ---
 
