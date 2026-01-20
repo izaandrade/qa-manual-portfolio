@@ -1,6 +1,6 @@
 # ✅ Checklist de Teste Smoke e Regressão
 
-Este documento reúne exemplos de **checklist de Teste Smoke** e **Teste de Regressão**, com foco em atividades comuns de um **QA Jr**, aplicáveis a sistemas web como PDV, ERP ou aplicações de negócio.
+Este documento reúne exemplos de **checklist de Teste Smoke** e **Teste de Regressão**, aplicáveis a sistemas web como PDV, ERP ou aplicações de negócio.
 
 ---
 
@@ -9,7 +9,6 @@ Este documento reúne exemplos de **checklist de Teste Smoke** e **Teste de Regr
 ### 🎯 Objetivo
 Validar rapidamente se o sistema está **estável e testável** após um deploy, nova versão ou alteração significativa.
 
-> Regra de ouro:  
 > ❌ Smoke falhou → testes devem ser bloqueados  
 > ✅ Smoke passou → testes podem continuar
 
